@@ -1,0 +1,7 @@
+{
+  "name": "LocalAssist - Task Marketplace",
+  "description": "A hyper-local service marketplace where users can hire local talent for assignments, chores, and professional services, or earn money by offering their own skills.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
